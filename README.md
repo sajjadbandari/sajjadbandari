@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1>Hi 👋, I'm Sajjad Bandari</h1>
 <h3>A software engineer based in Augsburg, Germany 🇩🇪</h3>
 
