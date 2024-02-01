@@ -1,5 +1,5 @@
-<h2>Hi 👋, I'm Sajjad Bandari</h2>
-<h4>A software engineer based in Augsburg, Germany 🇩🇪</h4>
+## Hi 👋, I'm Sajjad Bandari
+### A software engineer based in Augsburg, Germany 🇩🇪
 
 - 🏢 I’m currently working at [Hutter & Unger advertising agency](https://hutter-unger.de/)
 
